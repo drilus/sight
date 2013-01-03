@@ -88,6 +88,14 @@ pre .tex .formula {
   color: #75715E;
 }
 
+pre .symbol,
+pre .ruby .symbol .string,
+pre .ruby .symbol .keyword,
+pre .ruby .symbol .keymethods,
+pre .number {
+  color: #3387CC;
+}
+
 pre .keyword,
 pre .literal,
 pre .css .id,
